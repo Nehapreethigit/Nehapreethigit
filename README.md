@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nehapreethigit
+- 👋 Hi, I’m @Nehak
 - 👀 I’m interested in Web Development,Android Development and Designing.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Internship related to Web Development.
